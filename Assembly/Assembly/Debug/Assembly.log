@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.obj : warning LNK4258: directive '/ENTRY:main@0' not compatible with switch '/ENTRY:main'; ignored
+  Assembly.vcxproj -> D:\Dane\Programowanie\VisualStudio 2015\Assembly\Debug\Assembly.exe
+  Assembly.vcxproj -> D:\Dane\Programowanie\VisualStudio 2015\Assembly\Debug\Assembly.pdb (Full PDB)
